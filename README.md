@@ -3,6 +3,8 @@ BGS Hack Gui Made By ZuprizeDev, Must Buy This Gamepass: https://www.roblox.com/
 
 PLEASE READ THE INSTRUCTIONS FILE!
 
+EXAMPLES CAN BE FOUND IN EXAMPLE FILE!
+
 If you do not buy this gamepass the code will not work.
 
 If you have any questions contact ZuprizeDev#6443
